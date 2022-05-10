@@ -1,2 +1,2 @@
 # Projetos_DS
-Projetos desenvolvidos seja Data Science, Machine Learning ou Data Analysis
+Projetos pessoais desenvolvidos em Data Science, Machine Learning ou Data Analysis
